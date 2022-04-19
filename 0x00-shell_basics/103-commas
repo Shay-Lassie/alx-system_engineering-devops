@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amnpX
+ls -pam | sort
