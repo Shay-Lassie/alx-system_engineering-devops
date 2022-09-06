@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d1 */  | wc -l
+find . -type d | sort | uniq | wc -l
