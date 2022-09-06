@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.j $alx-system_engineering-devops
+find . -name *.js rm -r 
