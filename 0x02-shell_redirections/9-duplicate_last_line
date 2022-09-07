@@ -1,2 +1,2 @@
-10-no_more_js
-rm *.j $alx-system_engineering-devops
+#!/bin/bash
+tail -n 1 iacta >> iacta
